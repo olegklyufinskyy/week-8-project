@@ -1,0 +1,83 @@
+body {
+    background-image: url('https://urbanfishfarmer.com/wp-content/uploads/2023/03/hybrid-bass-aquaponics.png');
+}
+.centered-text {
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+    height: 10vh; 
+  }
+  
+ 
+  .centered-text {
+    font-size: 24px;
+    font-weight: bolder; 
+    color: #33482ab9; 
+  }
+  .btn {
+    display:inline-block ;
+    padding: 10px 50px;
+    color: #33482ab9;
+    text-decoration: none;
+    border: 2px solid #33482ab9;
+    border-radius: 20px;
+    cursor: alias;
+  }
+  
+.btn:hover {
+    background-color: #007BFF;
+    color: #fff;
+  }
+ 
+.outlined {
+    background-color: transparent;
+  }
+  
+.outlined:hover {
+    background-color: transparent;
+    color: #636a7084;
+    border-color: #54575b00;
+  }
+ 
+  .styled-paragraph {
+    font-family:'Arial Narrow Bold', sans-serif;
+    font-size: 16px; 
+    line-height: 1.5; 
+    color: #000000; 
+   
+  }
+  
+  .styled-paragraph :hover {
+    background-color: #d8d8cad4;
+  
+  }
+ 
+.custom-link {
+    text-decoration: none; 
+    color: #0077cc; 
+    font-weight: bold; 
+    padding: 5px 10px; 
+    border: 1px solid #0077cc; 
+    border-radius: 5px; 
+    background-color: #f0f0f0;
+    transition: background-color 0.3s, color 0.3s; 
+    cursor: alias
+}
+
+
+.custom-link:hover {
+    background-color: #426178;
+    color: #ffffff;
+}
+
+    
+   
+    
+  
+  
+  
+  
+  
+  
+  
+  
